@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Offline view — Dialer Campaign Console{% endblock %}
+{% block body %}
+<div class="login-screen">
+  <div class="login-panel">
+    <div class="login-mark">
+      <span class="pulse-dot pulse-dot-offline"></span>
+      <span class="login-mark-text">DIALER CONSOLE — OFFLINE</span>
+    </div>
+    <h1>Cached view</h1>
+    <p class="login-sub">Browse the last saved snapshot. No database connection is made.</p>
+
+    {% if error %}
+      <div class="alert alert-error">{{ error }}</div>
+    {% endif %}
+
+    <form method="POST" action="{{ url_for('offline_login') }}" class="login-form">
+      <label for="passcode">Passcode</label>
+      <input type="password" id="passcode" name="passcode" autocomplete="off" required autofocus>
+
+      <button type="submit" class="btn btn-primary btn-block">View cached data</button>
+    </form>
+
+    <p class="login-footnote">
+      Data shown here is only as fresh as the last live sync. Each page is timestamped
+      so you can see exactly how old it is.
+    </p>
+    <p class="login-footnote">
+      <a href="{{ url_for('login') }}">&larr; Back to live database login</a>
+    </p>
+  </div>
+</div>
+{% endblock %}
