@@ -1,3 +1,0 @@
-Flask>=3.0
-pyodbc
-python-dotenv>=1.0  # optional: auto-loads .env if present
