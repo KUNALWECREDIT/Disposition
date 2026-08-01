@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01 16:10:49",
+  "generated_at": "2026-08-01 16:56:44",
   "campaigns": [
     "CREDITTPlus",
     "HDFC PA",
@@ -15,6 +15,7 @@
     "Olyv Existing 50",
     "Olyv nonexist",
     "Olyv Unlocked",
+    "PERSONAL LOAN GPT",
     "Personal Loan PKJ",
     "PERSONAL LOAN RHT",
     "PL INSTA",
@@ -25,7 +26,7 @@
   ],
   "disposition": {
     "CREDITTPlus": {
-      "timestamp": 1785577199.9908493,
+      "timestamp": 1785581553.9497383,
       "columns": [
         "Disposition",
         "Unique_Calls",
@@ -35,128 +36,134 @@
       "rows": [
         {
           "Disposition": "Receiver is Busy",
-          "Unique_Calls": 948,
-          "Percentage": "32.100000000000%",
-          "Avg_Attempts": 1.04
+          "Unique_Calls": 1325,
+          "Percentage": "34.420000000000%",
+          "Avg_Attempts": 1.05
         },
         {
           "Disposition": "Ring Timeout",
-          "Unique_Calls": 945,
-          "Percentage": "32.000000000000%",
+          "Unique_Calls": 1321,
+          "Percentage": "34.310000000000%",
           "Avg_Attempts": 1.06
         },
         {
           "Disposition": "Did Not Speak",
-          "Unique_Calls": 413,
-          "Percentage": "13.990000000000%",
-          "Avg_Attempts": 1.04
+          "Unique_Calls": 534,
+          "Percentage": "13.870000000000%",
+          "Avg_Attempts": 1.06
         },
         {
           "Disposition": "No Answer",
-          "Unique_Calls": 290,
-          "Percentage": "9.820000000000%",
+          "Unique_Calls": 219,
+          "Percentage": "5.690000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Final Not Eligible",
-          "Unique_Calls": 72,
-          "Percentage": "2.440000000000%",
+          "Unique_Calls": 102,
+          "Percentage": "2.650000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Follow Up",
-          "Unique_Calls": 69,
-          "Percentage": "2.340000000000%",
-          "Avg_Attempts": 1.29
+          "Unique_Calls": 81,
+          "Percentage": "2.100000000000%",
+          "Avg_Attempts": 1.46
         },
         {
           "Disposition": "Final Not Interested",
-          "Unique_Calls": 54,
-          "Percentage": "1.830000000000%",
-          "Avg_Attempts": 1.02
+          "Unique_Calls": 71,
+          "Percentage": "1.840000000000%",
+          "Avg_Attempts": 1.01
         },
         {
           "Disposition": "Interested",
-          "Unique_Calls": 48,
-          "Percentage": "1.630000000000%",
-          "Avg_Attempts": 1.25
+          "Unique_Calls": 54,
+          "Percentage": "1.400000000000%",
+          "Avg_Attempts": 1.37
         },
         {
           "Disposition": "System Failure",
-          "Unique_Calls": 37,
-          "Percentage": "1.250000000000%",
+          "Unique_Calls": 45,
+          "Percentage": "1.170000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Undisposed",
-          "Unique_Calls": 20,
-          "Percentage": "0.680000000000%",
-          "Avg_Attempts": 1.05
+          "Unique_Calls": 28,
+          "Percentage": "0.730000000000%",
+          "Avg_Attempts": 1.04
         },
         {
           "Disposition": "Network Issue",
-          "Unique_Calls": 14,
+          "Unique_Calls": 18,
           "Percentage": "0.470000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Do Not Call",
-          "Unique_Calls": 6,
-          "Percentage": "0.200000000000%",
+          "Unique_Calls": 8,
+          "Percentage": "0.210000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Stuck Case",
-          "Unique_Calls": 6,
-          "Percentage": "0.200000000000%",
+          "Unique_Calls": 8,
+          "Percentage": "0.210000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Call Rejected",
           "Unique_Calls": 5,
-          "Percentage": "0.170000000000%",
+          "Percentage": "0.130000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Others",
           "Unique_Calls": 5,
-          "Percentage": "0.170000000000%",
+          "Percentage": "0.130000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Not Reachable",
-          "Unique_Calls": 4,
-          "Percentage": "0.140000000000%",
+          "Unique_Calls": 5,
+          "Percentage": "0.130000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "App Start",
           "Unique_Calls": 4,
-          "Percentage": "0.140000000000%",
+          "Percentage": "0.100000000000%",
           "Avg_Attempts": 1.75
         },
         {
           "Disposition": "Customer Goal Complete",
           "Unique_Calls": 4,
-          "Percentage": "0.140000000000%",
+          "Percentage": "0.100000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Declined",
-          "Unique_Calls": 2,
-          "Percentage": "0.070000000000%",
+          "Unique_Calls": 3,
+          "Percentage": "0.080000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Unallocated Number",
+          "Unique_Calls": 3,
+          "Percentage": "0.080000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Already rejected",
           "Unique_Calls": 2,
-          "Percentage": "0.070000000000%",
+          "Percentage": "0.050000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Invalid Num",
           "Unique_Calls": 2,
-          "Percentage": "0.070000000000%",
+          "Percentage": "0.050000000000%",
           "Avg_Attempts": 1.0
         },
         {
@@ -172,21 +179,21 @@
           "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Unallocated Number",
+          "Disposition": "Sos",
           "Unique_Calls": 1,
           "Percentage": "0.030000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "TOTAL",
-          "Unique_Calls": 2953,
+          "Unique_Calls": 3850,
           "Percentage": "100.01%",
-          "Avg_Attempts": 1.06
+          "Avg_Attempts": 1.07
         }
       ]
     },
     "HDFC PA": {
-      "timestamp": 1785577213.717011,
+      "timestamp": 1785581564.9079123,
       "columns": [
         "Disposition",
         "Unique_Calls",
@@ -196,116 +203,116 @@
       "rows": [
         {
           "Disposition": "Did Not Speak",
-          "Unique_Calls": 813,
-          "Percentage": "38.490000000000%",
+          "Unique_Calls": 1025,
+          "Percentage": "38.180000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Receiver is Busy",
-          "Unique_Calls": 730,
-          "Percentage": "34.560000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 1002,
+          "Percentage": "37.320000000000%",
+          "Avg_Attempts": 1.06
         },
         {
           "Disposition": "Ring Timeout",
-          "Unique_Calls": 173,
-          "Percentage": "8.190000000000%",
+          "Unique_Calls": 270,
+          "Percentage": "10.060000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Final Not Interested",
-          "Unique_Calls": 148,
-          "Percentage": "7.010000000000%",
+          "Unique_Calls": 196,
+          "Percentage": "7.300000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "No Answer",
-          "Unique_Calls": 119,
-          "Percentage": "5.630000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Undisposed",
-          "Unique_Calls": 22,
-          "Percentage": "1.040000000000%",
+          "Unique_Calls": 50,
+          "Percentage": "1.860000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Follow Up",
-          "Unique_Calls": 21,
-          "Percentage": "0.990000000000%",
-          "Avg_Attempts": 1.19
+          "Unique_Calls": 27,
+          "Percentage": "1.010000000000%",
+          "Avg_Attempts": 1.26
+        },
+        {
+          "Disposition": "Undisposed",
+          "Unique_Calls": 23,
+          "Percentage": "0.860000000000%",
+          "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Network Issue",
           "Unique_Calls": 21,
-          "Percentage": "0.990000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Call Drop",
-          "Unique_Calls": 15,
-          "Percentage": "0.710000000000%",
+          "Percentage": "0.780000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "System Failure",
-          "Unique_Calls": 14,
-          "Percentage": "0.660000000000%",
+          "Unique_Calls": 19,
+          "Percentage": "0.710000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Interested",
-          "Unique_Calls": 13,
-          "Percentage": "0.620000000000%",
-          "Avg_Attempts": 1.54
+          "Unique_Calls": 18,
+          "Percentage": "0.670000000000%",
+          "Avg_Attempts": 1.5
         },
         {
           "Disposition": "Do Not Call",
-          "Unique_Calls": 7,
-          "Percentage": "0.330000000000%",
+          "Unique_Calls": 9,
+          "Percentage": "0.340000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Final Not Eligible",
-          "Unique_Calls": 5,
-          "Percentage": "0.240000000000%",
+          "Unique_Calls": 8,
+          "Percentage": "0.300000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Channel Issue",
-          "Unique_Calls": 5,
-          "Percentage": "0.240000000000%",
+          "Unique_Calls": 6,
+          "Percentage": "0.220000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Call Drop",
+          "Unique_Calls": 4,
+          "Percentage": "0.150000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Others",
           "Unique_Calls": 3,
-          "Percentage": "0.140000000000%",
+          "Percentage": "0.110000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Not Reachable",
           "Unique_Calls": 2,
-          "Percentage": "0.090000000000%",
+          "Percentage": "0.070000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "App Start",
-          "Unique_Calls": 1,
-          "Percentage": "0.050000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 2,
+          "Percentage": "0.070000000000%",
+          "Avg_Attempts": 2.0
         },
         {
           "Disposition": "TOTAL",
-          "Unique_Calls": 2112,
-          "Percentage": "99.98%",
-          "Avg_Attempts": 1.04
+          "Unique_Calls": 2685,
+          "Percentage": "100.01%",
+          "Avg_Attempts": 1.11
         }
       ]
     },
     "HL Diamond": {
-      "timestamp": 1785577319.593024,
+      "timestamp": 1785581675.4443572,
       "columns": [
         "Disposition",
         "Unique_Calls",
@@ -315,98 +322,98 @@
       "rows": [
         {
           "Disposition": "Receiver is Busy",
-          "Unique_Calls": 338,
-          "Percentage": "35.880000000000%",
-          "Avg_Attempts": 1.01
+          "Unique_Calls": 471,
+          "Percentage": "33.500000000000%",
+          "Avg_Attempts": 1.29
         },
         {
           "Disposition": "Ring Timeout",
-          "Unique_Calls": 213,
-          "Percentage": "22.610000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 304,
+          "Percentage": "21.620000000000%",
+          "Avg_Attempts": 1.25
         },
         {
           "Disposition": "Did Not Speak",
-          "Unique_Calls": 156,
-          "Percentage": "16.560000000000%",
+          "Unique_Calls": 242,
+          "Percentage": "17.210000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "No Answer",
-          "Unique_Calls": 113,
-          "Percentage": "12.000000000000%",
+          "Unique_Calls": 191,
+          "Percentage": "13.580000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Not Interested",
-          "Unique_Calls": 85,
-          "Percentage": "9.020000000000%",
+          "Unique_Calls": 150,
+          "Percentage": "10.670000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Network Issue",
-          "Unique_Calls": 12,
-          "Percentage": "1.270000000000%",
+          "Unique_Calls": 16,
+          "Percentage": "1.140000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Channel Issue",
-          "Unique_Calls": 6,
+          "Unique_Calls": 9,
           "Percentage": "0.640000000000%",
-          "Avg_Attempts": 1.0
+          "Avg_Attempts": 1.11
         },
         {
           "Disposition": "System Failure",
-          "Unique_Calls": 6,
+          "Unique_Calls": 9,
           "Percentage": "0.640000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Unallocated Number",
           "Unique_Calls": 6,
-          "Percentage": "0.640000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Undisposed",
-          "Unique_Calls": 2,
-          "Percentage": "0.210000000000%",
-          "Avg_Attempts": 1.0
+          "Percentage": "0.430000000000%",
+          "Avg_Attempts": 1.67
         },
         {
           "Disposition": "FUP-Call Back",
-          "Unique_Calls": 2,
+          "Unique_Calls": 3,
           "Percentage": "0.210000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Invalid Num",
-          "Unique_Calls": 1,
-          "Percentage": "0.110000000000%",
+          "Unique_Calls": 2,
+          "Percentage": "0.140000000000%",
           "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Call Drop",
+          "Disposition": "Do Not Call",
           "Unique_Calls": 1,
-          "Percentage": "0.110000000000%",
+          "Percentage": "0.070000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Not Reachable",
           "Unique_Calls": 1,
-          "Percentage": "0.110000000000%",
+          "Percentage": "0.070000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Undisposed",
+          "Unique_Calls": 1,
+          "Percentage": "0.070000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "TOTAL",
-          "Unique_Calls": 942,
-          "Percentage": "100.01%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 1406,
+          "Percentage": "99.99%",
+          "Avg_Attempts": 1.09
         }
       ]
     },
     "HL GOLD": {
-      "timestamp": 1785577451.9993055,
+      "timestamp": 1785581815.073539,
       "columns": [
         "Disposition",
         "Unique_Calls",
@@ -416,229 +423,110 @@
       "rows": [
         {
           "Disposition": "Receiver is Busy",
-          "Unique_Calls": 607,
-          "Percentage": "38.010000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 706,
+          "Percentage": "35.890000000000%",
+          "Avg_Attempts": 1.12
         },
         {
           "Disposition": "Ring Timeout",
-          "Unique_Calls": 410,
-          "Percentage": "25.670000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 481,
+          "Percentage": "24.450000000000%",
+          "Avg_Attempts": 1.1
         },
         {
           "Disposition": "Did Not Speak",
-          "Unique_Calls": 264,
-          "Percentage": "16.530000000000%",
+          "Unique_Calls": 326,
+          "Percentage": "16.570000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Not Interested",
-          "Unique_Calls": 149,
-          "Percentage": "9.330000000000%",
+          "Unique_Calls": 199,
+          "Percentage": "10.120000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "No Answer",
-          "Unique_Calls": 80,
-          "Percentage": "5.010000000000%",
+          "Unique_Calls": 157,
+          "Percentage": "7.980000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Undisposed",
-          "Unique_Calls": 21,
-          "Percentage": "1.310000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Unallocated Number",
-          "Unique_Calls": 15,
-          "Percentage": "0.940000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Network Issue",
-          "Unique_Calls": 12,
-          "Percentage": "0.750000000000%",
+          "Unique_Calls": 20,
+          "Percentage": "1.020000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "System Failure",
-          "Unique_Calls": 10,
-          "Percentage": "0.630000000000%",
+          "Unique_Calls": 18,
+          "Percentage": "0.920000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Unallocated Number",
+          "Unique_Calls": 17,
+          "Percentage": "0.860000000000%",
+          "Avg_Attempts": 1.18
+        },
+        {
+          "Disposition": "Network Issue",
+          "Unique_Calls": 12,
+          "Percentage": "0.610000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Channel Issue",
           "Unique_Calls": 8,
-          "Percentage": "0.500000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Call Drop",
-          "Unique_Calls": 5,
-          "Percentage": "0.310000000000%",
+          "Percentage": "0.410000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Call Rejected",
-          "Unique_Calls": 5,
+          "Unique_Calls": 6,
           "Percentage": "0.310000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Call Drop",
+          "Unique_Calls": 4,
+          "Percentage": "0.200000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Do Not Call",
+          "Unique_Calls": 4,
+          "Percentage": "0.200000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "FUP-Call Back",
           "Unique_Calls": 4,
-          "Percentage": "0.250000000000%",
+          "Percentage": "0.200000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Interested",
           "Unique_Calls": 3,
-          "Percentage": "0.190000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Do Not Call",
-          "Unique_Calls": 2,
-          "Percentage": "0.130000000000%",
+          "Percentage": "0.150000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Not Reachable",
           "Unique_Calls": 2,
-          "Percentage": "0.130000000000%",
+          "Percentage": "0.100000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "TOTAL",
-          "Unique_Calls": 1597,
-          "Percentage": "100.00%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 1967,
+          "Percentage": "99.99%",
+          "Avg_Attempts": 1.02
         }
       ]
     },
     "HL PREMIUM": {
-      "timestamp": 1785577626.9457984,
-      "columns": [
-        "Disposition",
-        "Unique_Calls",
-        "Percentage",
-        "Avg_Attempts"
-      ],
-      "rows": [
-        {
-          "Disposition": "Receiver is Busy",
-          "Unique_Calls": 426,
-          "Percentage": "29.850000000000%",
-          "Avg_Attempts": 1.66
-        },
-        {
-          "Disposition": "Ring Timeout",
-          "Unique_Calls": 307,
-          "Percentage": "21.510000000000%",
-          "Avg_Attempts": 1.76
-        },
-        {
-          "Disposition": "No Answer",
-          "Unique_Calls": 251,
-          "Percentage": "17.590000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Not Interested",
-          "Unique_Calls": 201,
-          "Percentage": "14.090000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Did Not Speak",
-          "Unique_Calls": 163,
-          "Percentage": "11.420000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Undisposed",
-          "Unique_Calls": 29,
-          "Percentage": "2.030000000000%",
-          "Avg_Attempts": 1.07
-        },
-        {
-          "Disposition": "Network Issue",
-          "Unique_Calls": 13,
-          "Percentage": "0.910000000000%",
-          "Avg_Attempts": 1.08
-        },
-        {
-          "Disposition": "Unallocated Number",
-          "Unique_Calls": 10,
-          "Percentage": "0.700000000000%",
-          "Avg_Attempts": 1.3
-        },
-        {
-          "Disposition": "Do Not Call",
-          "Unique_Calls": 8,
-          "Percentage": "0.560000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "System Failure",
-          "Unique_Calls": 7,
-          "Percentage": "0.490000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Channel Issue",
-          "Unique_Calls": 3,
-          "Percentage": "0.210000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Basic Foreword",
-          "Unique_Calls": 2,
-          "Percentage": "0.140000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "FUP-Call Back",
-          "Unique_Calls": 2,
-          "Percentage": "0.140000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Interested",
-          "Unique_Calls": 2,
-          "Percentage": "0.140000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Invalid Num",
-          "Unique_Calls": 1,
-          "Percentage": "0.070000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Call Rejected",
-          "Unique_Calls": 1,
-          "Percentage": "0.070000000000%",
-          "Avg_Attempts": 6.0
-        },
-        {
-          "Disposition": "Not Reachable",
-          "Unique_Calls": 1,
-          "Percentage": "0.070000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "TOTAL",
-          "Unique_Calls": 1427,
-          "Percentage": "99.99%",
-          "Avg_Attempts": 1.4
-        }
-      ]
-    },
-    "HL Silver": {
-      "timestamp": 1785577635.7108357,
+      "timestamp": 1785582003.0748641,
       "columns": [
         "Disposition",
         "Unique_Calls",
@@ -648,98 +536,235 @@
       "rows": [
         {
           "Disposition": "Receiver is busy",
-          "Unique_Calls": 565,
-          "Percentage": "38.150000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 644,
+          "Percentage": "32.860000000000%",
+          "Avg_Attempts": 2.18
         },
         {
           "Disposition": "Ring Timeout",
-          "Unique_Calls": 359,
-          "Percentage": "24.240000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 424,
+          "Percentage": "21.630000000000%",
+          "Avg_Attempts": 2.2
+        },
+        {
+          "Disposition": "No Answer",
+          "Unique_Calls": 360,
+          "Percentage": "18.370000000000%",
+          "Avg_Attempts": 1.01
         },
         {
           "Disposition": "Not Interested",
-          "Unique_Calls": 239,
-          "Percentage": "16.140000000000%",
+          "Unique_Calls": 243,
+          "Percentage": "12.400000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Did Not Speak",
-          "Unique_Calls": 154,
-          "Percentage": "10.400000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "No Answer",
-          "Unique_Calls": 97,
-          "Percentage": "6.550000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "System Failure",
-          "Unique_Calls": 13,
-          "Percentage": "0.880000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Unallocated Number",
-          "Unique_Calls": 13,
-          "Percentage": "0.880000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "FUP-Call Back",
-          "Unique_Calls": 11,
-          "Percentage": "0.740000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Network Issue",
-          "Unique_Calls": 8,
-          "Percentage": "0.540000000000%",
+          "Unique_Calls": 186,
+          "Percentage": "9.490000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Undisposed",
-          "Unique_Calls": 8,
-          "Percentage": "0.540000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 32,
+          "Percentage": "1.630000000000%",
+          "Avg_Attempts": 1.06
         },
         {
-          "Disposition": "Channel Issue",
-          "Unique_Calls": 6,
-          "Percentage": "0.410000000000%",
-          "Avg_Attempts": 1.0
+          "Disposition": "Network Issue",
+          "Unique_Calls": 18,
+          "Percentage": "0.920000000000%",
+          "Avg_Attempts": 1.06
+        },
+        {
+          "Disposition": "Unallocated Number",
+          "Unique_Calls": 15,
+          "Percentage": "0.770000000000%",
+          "Avg_Attempts": 2.6
+        },
+        {
+          "Disposition": "System Failure",
+          "Unique_Calls": 11,
+          "Percentage": "0.560000000000%",
+          "Avg_Attempts": 1.27
         },
         {
           "Disposition": "Do Not Call",
-          "Unique_Calls": 5,
-          "Percentage": "0.340000000000%",
+          "Unique_Calls": 9,
+          "Percentage": "0.460000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Basic Foreword",
+          "Unique_Calls": 3,
+          "Percentage": "0.150000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Call Rejected",
+          "Unique_Calls": 3,
+          "Percentage": "0.150000000000%",
+          "Avg_Attempts": 2.67
+        },
+        {
+          "Disposition": "Channel Issue",
+          "Unique_Calls": 3,
+          "Percentage": "0.150000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Not Reachable",
           "Unique_Calls": 2,
-          "Percentage": "0.140000000000%",
+          "Percentage": "0.100000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "FUP-Call Back",
+          "Unique_Calls": 2,
+          "Percentage": "0.100000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Interested",
+          "Unique_Calls": 2,
+          "Percentage": "0.100000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Invalid Num",
+          "Unique_Calls": 1,
+          "Percentage": "0.050000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Sos",
+          "Unique_Calls": 1,
+          "Percentage": "0.050000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Subscription Issue",
+          "Unique_Calls": 1,
+          "Percentage": "0.050000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "TOTAL",
+          "Unique_Calls": 1960,
+          "Percentage": "99.99%",
+          "Avg_Attempts": 1.32
+        }
+      ]
+    },
+    "HL Silver": {
+      "timestamp": 1785582118.0725443,
+      "columns": [
+        "Disposition",
+        "Unique_Calls",
+        "Percentage",
+        "Avg_Attempts"
+      ],
+      "rows": [
+        {
+          "Disposition": "Receiver is busy",
+          "Unique_Calls": 742,
+          "Percentage": "38.950000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Ring Timeout",
+          "Unique_Calls": 476,
+          "Percentage": "24.990000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Not Interested",
+          "Unique_Calls": 320,
+          "Percentage": "16.800000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Did Not Speak",
+          "Unique_Calls": 180,
+          "Percentage": "9.450000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "No Answer",
+          "Unique_Calls": 94,
+          "Percentage": "4.930000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "System Failure",
+          "Unique_Calls": 15,
+          "Percentage": "0.790000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Unallocated Number",
+          "Unique_Calls": 14,
+          "Percentage": "0.730000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Undisposed",
+          "Unique_Calls": 13,
+          "Percentage": "0.680000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "FUP-Call Back",
+          "Unique_Calls": 12,
+          "Percentage": "0.630000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Call Drop",
+          "Unique_Calls": 11,
+          "Percentage": "0.580000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Network Issue",
+          "Unique_Calls": 9,
+          "Percentage": "0.470000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Channel Issue",
+          "Unique_Calls": 8,
+          "Percentage": "0.420000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Do Not Call",
+          "Unique_Calls": 6,
+          "Percentage": "0.310000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Call Rejected",
+          "Unique_Calls": 4,
+          "Percentage": "0.210000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Not Reachable",
           "Unique_Calls": 1,
-          "Percentage": "0.070000000000%",
+          "Percentage": "0.050000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "TOTAL",
-          "Unique_Calls": 1481,
-          "Percentage": "100.02%",
+          "Unique_Calls": 1905,
+          "Percentage": "99.99%",
           "Avg_Attempts": 1.0
         }
       ]
     },
     "Kredit Bee Confirmed": {
-      "timestamp": 1785577870.1061869,
+      "timestamp": 1785582287.243694,
       "columns": [
         "Disposition",
         "Unique_Calls",
@@ -749,134 +774,140 @@
       "rows": [
         {
           "Disposition": "Receiver is Busy",
-          "Unique_Calls": 1302,
-          "Percentage": "30.130000000000%",
-          "Avg_Attempts": 1.68
+          "Unique_Calls": 1574,
+          "Percentage": "30.710000000000%",
+          "Avg_Attempts": 1.76
         },
         {
           "Disposition": "Ring Timeout",
-          "Unique_Calls": 1169,
-          "Percentage": "27.050000000000%",
-          "Avg_Attempts": 1.66
+          "Unique_Calls": 1434,
+          "Percentage": "27.980000000000%",
+          "Avg_Attempts": 1.73
         },
         {
           "Disposition": "Did Not Speak",
-          "Unique_Calls": 459,
-          "Percentage": "10.620000000000%",
-          "Avg_Attempts": 1.41
+          "Unique_Calls": 572,
+          "Percentage": "11.160000000000%",
+          "Avg_Attempts": 1.5
         },
         {
           "Disposition": "No Answer",
-          "Unique_Calls": 381,
-          "Percentage": "8.820000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Follow Up",
-          "Unique_Calls": 313,
-          "Percentage": "7.240000000000%",
-          "Avg_Attempts": 1.15
-        },
-        {
-          "Disposition": "Final Not Interested",
-          "Unique_Calls": 169,
-          "Percentage": "3.910000000000%",
+          "Unique_Calls": 395,
+          "Percentage": "7.710000000000%",
           "Avg_Attempts": 1.01
         },
         {
-          "Disposition": "Interested",
-          "Unique_Calls": 146,
-          "Percentage": "3.380000000000%",
-          "Avg_Attempts": 1.23
+          "Disposition": "Follow Up",
+          "Unique_Calls": 339,
+          "Percentage": "6.610000000000%",
+          "Avg_Attempts": 1.17
         },
         {
-          "Disposition": "Undisposed",
-          "Unique_Calls": 74,
-          "Percentage": "1.710000000000%",
-          "Avg_Attempts": 1.03
-        },
-        {
-          "Disposition": "System Failure",
-          "Unique_Calls": 58,
-          "Percentage": "1.340000000000%",
-          "Avg_Attempts": 1.12
-        },
-        {
-          "Disposition": "App Start",
-          "Unique_Calls": 43,
-          "Percentage": "1.000000000000%",
-          "Avg_Attempts": 1.56
-        },
-        {
-          "Disposition": "Need Better Offer",
-          "Unique_Calls": 42,
-          "Percentage": "0.970000000000%",
+          "Disposition": "Final Not Interested",
+          "Unique_Calls": 208,
+          "Percentage": "4.060000000000%",
           "Avg_Attempts": 1.0
         },
         {
+          "Disposition": "Interested",
+          "Unique_Calls": 160,
+          "Percentage": "3.120000000000%",
+          "Avg_Attempts": 1.25
+        },
+        {
+          "Disposition": "Undisposed",
+          "Unique_Calls": 84,
+          "Percentage": "1.640000000000%",
+          "Avg_Attempts": 1.02
+        },
+        {
+          "Disposition": "System Failure",
+          "Unique_Calls": 72,
+          "Percentage": "1.400000000000%",
+          "Avg_Attempts": 1.14
+        },
+        {
+          "Disposition": "Need Better Offer",
+          "Unique_Calls": 47,
+          "Percentage": "0.920000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "App Start",
+          "Unique_Calls": 47,
+          "Percentage": "0.920000000000%",
+          "Avg_Attempts": 1.64
+        },
+        {
           "Disposition": "Others",
-          "Unique_Calls": 39,
+          "Unique_Calls": 46,
           "Percentage": "0.900000000000%",
           "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Invalid Lead",
-          "Unique_Calls": 27,
-          "Percentage": "0.620000000000%",
-          "Avg_Attempts": 1.04
+          "Disposition": "Network Issue",
+          "Unique_Calls": 30,
+          "Percentage": "0.590000000000%",
+          "Avg_Attempts": 1.03
         },
         {
-          "Disposition": "Network Issue",
-          "Unique_Calls": 23,
-          "Percentage": "0.530000000000%",
+          "Disposition": "Invalid Lead",
+          "Unique_Calls": 28,
+          "Percentage": "0.550000000000%",
           "Avg_Attempts": 1.04
         },
         {
           "Disposition": "Do Not Call",
-          "Unique_Calls": 22,
-          "Percentage": "0.510000000000%",
+          "Unique_Calls": 27,
+          "Percentage": "0.530000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Call Rejected",
-          "Unique_Calls": 16,
-          "Percentage": "0.370000000000%",
-          "Avg_Attempts": 1.44
+          "Unique_Calls": 18,
+          "Percentage": "0.350000000000%",
+          "Avg_Attempts": 1.5
         },
         {
           "Disposition": "Declined",
-          "Unique_Calls": 12,
-          "Percentage": "0.280000000000%",
+          "Unique_Calls": 13,
+          "Percentage": "0.250000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Customer Goal Complete",
-          "Unique_Calls": 9,
-          "Percentage": "0.210000000000%",
+          "Unique_Calls": 10,
+          "Percentage": "0.200000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Unallocated Number",
-          "Unique_Calls": 8,
-          "Percentage": "0.190000000000%",
-          "Avg_Attempts": 2.63
+          "Unique_Calls": 9,
+          "Percentage": "0.180000000000%",
+          "Avg_Attempts": 2.67
         },
         {
           "Disposition": "Not Reachable",
+          "Unique_Calls": 4,
+          "Percentage": "0.080000000000%",
+          "Avg_Attempts": 1.25
+        },
+        {
+          "Disposition": "Channel Issue",
           "Unique_Calls": 3,
-          "Percentage": "0.070000000000%",
-          "Avg_Attempts": 1.33
+          "Percentage": "0.060000000000%",
+          "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Shuffled",
           "Unique_Calls": 3,
-          "Percentage": "0.070000000000%",
+          "Percentage": "0.060000000000%",
           "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Channel Issue",
-          "Unique_Calls": 2,
-          "Percentage": "0.050000000000%",
+          "Disposition": "Sos",
+          "Unique_Calls": 1,
+          "Percentage": "0.020000000000%",
           "Avg_Attempts": 1.0
         },
         {
@@ -887,14 +918,14 @@
         },
         {
           "Disposition": "TOTAL",
-          "Unique_Calls": 4321,
-          "Percentage": "99.99%",
-          "Avg_Attempts": 1.23
+          "Unique_Calls": 5125,
+          "Percentage": "100.02%",
+          "Avg_Attempts": 1.24
         }
       ]
     },
     "Kredit Bee Eligible v3": {
-      "timestamp": 1785577875.9382381,
+      "timestamp": 1785582301.7962778,
       "columns": [
         "Disposition",
         "Unique_Calls",
@@ -904,307 +935,158 @@
       "rows": [
         {
           "Disposition": "Receiver is Busy",
-          "Unique_Calls": 1414,
-          "Percentage": "29.340000000000%",
+          "Unique_Calls": 1705,
+          "Percentage": "29.660000000000%",
           "Avg_Attempts": 1.01
         },
         {
           "Disposition": "Ring Timeout",
-          "Unique_Calls": 953,
-          "Percentage": "19.780000000000%",
+          "Unique_Calls": 1154,
+          "Percentage": "20.080000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Follow Up",
-          "Unique_Calls": 640,
-          "Percentage": "13.280000000000%",
-          "Avg_Attempts": 1.29
+          "Unique_Calls": 744,
+          "Percentage": "12.940000000000%",
+          "Avg_Attempts": 1.33
         },
         {
           "Disposition": "Did Not Speak",
-          "Unique_Calls": 441,
-          "Percentage": "9.150000000000%",
+          "Unique_Calls": 523,
+          "Percentage": "9.100000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Final Not Interested",
-          "Unique_Calls": 338,
-          "Percentage": "7.010000000000%",
+          "Unique_Calls": 411,
+          "Percentage": "7.150000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Interested",
-          "Unique_Calls": 313,
-          "Percentage": "6.500000000000%",
-          "Avg_Attempts": 1.26
+          "Unique_Calls": 356,
+          "Percentage": "6.190000000000%",
+          "Avg_Attempts": 1.32
         },
         {
           "Disposition": "No Answer",
-          "Unique_Calls": 170,
-          "Percentage": "3.530000000000%",
+          "Unique_Calls": 212,
+          "Percentage": "3.690000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "App Start",
-          "Unique_Calls": 135,
-          "Percentage": "2.800000000000%",
-          "Avg_Attempts": 1.73
+          "Unique_Calls": 152,
+          "Percentage": "2.640000000000%",
+          "Avg_Attempts": 1.85
         },
         {
           "Disposition": "Undisposed",
-          "Unique_Calls": 107,
-          "Percentage": "2.220000000000%",
-          "Avg_Attempts": 1.03
-        },
-        {
-          "Disposition": "Declined",
-          "Unique_Calls": 73,
-          "Percentage": "1.510000000000%",
-          "Avg_Attempts": 1.04
-        },
-        {
-          "Disposition": "Invalid Lead",
-          "Unique_Calls": 61,
-          "Percentage": "1.270000000000%",
+          "Unique_Calls": 118,
+          "Percentage": "2.050000000000%",
           "Avg_Attempts": 1.02
         },
         {
+          "Disposition": "Declined",
+          "Unique_Calls": 96,
+          "Percentage": "1.670000000000%",
+          "Avg_Attempts": 1.04
+        },
+        {
           "Disposition": "Others",
-          "Unique_Calls": 59,
-          "Percentage": "1.220000000000%",
+          "Unique_Calls": 76,
+          "Percentage": "1.320000000000%",
+          "Avg_Attempts": 1.01
+        },
+        {
+          "Disposition": "Invalid Lead",
+          "Unique_Calls": 65,
+          "Percentage": "1.130000000000%",
           "Avg_Attempts": 1.02
         },
         {
           "Disposition": "System Failure",
-          "Unique_Calls": 40,
-          "Percentage": "0.830000000000%",
+          "Unique_Calls": 44,
+          "Percentage": "0.770000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Network Issue",
-          "Unique_Calls": 24,
-          "Percentage": "0.500000000000%",
+          "Unique_Calls": 25,
+          "Percentage": "0.430000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Customer Goal Complete",
-          "Unique_Calls": 16,
-          "Percentage": "0.330000000000%",
-          "Avg_Attempts": 1.13
+          "Unique_Calls": 22,
+          "Percentage": "0.380000000000%",
+          "Avg_Attempts": 1.14
         },
         {
           "Disposition": "Channel Issue",
           "Unique_Calls": 11,
-          "Percentage": "0.230000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Do Not Call",
-          "Unique_Calls": 8,
-          "Percentage": "0.170000000000%",
+          "Percentage": "0.190000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Call Rejected",
-          "Unique_Calls": 7,
-          "Percentage": "0.150000000000%",
+          "Unique_Calls": 10,
+          "Percentage": "0.170000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Do Not Call",
+          "Unique_Calls": 9,
+          "Percentage": "0.160000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Unallocated Number",
-          "Unique_Calls": 5,
+          "Unique_Calls": 6,
           "Percentage": "0.100000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Already Customer Goal Complete",
-          "Unique_Calls": 2,
-          "Percentage": "0.040000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Not Reachable",
-          "Unique_Calls": 1,
-          "Percentage": "0.020000000000%",
-          "Avg_Attempts": 1.0
+          "Unique_Calls": 3,
+          "Percentage": "0.050000000000%",
+          "Avg_Attempts": 1.33
         },
         {
           "Disposition": "Issue with Receiver network",
-          "Unique_Calls": 1,
-          "Percentage": "0.020000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "TOTAL",
-          "Unique_Calls": 4819,
-          "Percentage": "100.00%",
-          "Avg_Attempts": 1.07
-        }
-      ]
-    },
-    "LTPRESS1": {
-      "timestamp": 1785577887.1973076,
-      "columns": [
-        "Disposition",
-        "Unique_Calls",
-        "Percentage",
-        "Avg_Attempts"
-      ],
-      "rows": [
-        {
-          "Disposition": "Receiver is Busy",
-          "Unique_Calls": 500,
-          "Percentage": "33.560000000000%",
-          "Avg_Attempts": 1.05
-        },
-        {
-          "Disposition": "Ring Timeout",
-          "Unique_Calls": 349,
-          "Percentage": "23.420000000000%",
-          "Avg_Attempts": 1.05
-        },
-        {
-          "Disposition": "Did Not Speak",
-          "Unique_Calls": 219,
-          "Percentage": "14.700000000000%",
-          "Avg_Attempts": 1.08
-        },
-        {
-          "Disposition": "Follow Up",
-          "Unique_Calls": 113,
-          "Percentage": "7.580000000000%",
-          "Avg_Attempts": 1.27
-        },
-        {
-          "Disposition": "Final Not Interested",
-          "Unique_Calls": 93,
-          "Percentage": "6.240000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "No Answer",
-          "Unique_Calls": 60,
-          "Percentage": "4.030000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Interested",
-          "Unique_Calls": 28,
-          "Percentage": "1.880000000000%",
-          "Avg_Attempts": 1.29
-        },
-        {
-          "Disposition": "Others",
-          "Unique_Calls": 24,
-          "Percentage": "1.610000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "System Failure",
-          "Unique_Calls": 18,
-          "Percentage": "1.210000000000%",
-          "Avg_Attempts": 1.06
-        },
-        {
-          "Disposition": "Network Issue",
-          "Unique_Calls": 14,
-          "Percentage": "0.940000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "PUNCH",
-          "Unique_Calls": 13,
-          "Percentage": "0.870000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Invalid Num",
-          "Unique_Calls": 13,
-          "Percentage": "0.870000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Undisposed",
-          "Unique_Calls": 10,
-          "Percentage": "0.670000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Do Not Call",
-          "Unique_Calls": 9,
-          "Percentage": "0.600000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Call Rejected",
-          "Unique_Calls": 7,
-          "Percentage": "0.470000000000%",
+          "Unique_Calls": 2,
+          "Percentage": "0.030000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Final Not Eligible",
-          "Unique_Calls": 4,
-          "Percentage": "0.270000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Not Reachable",
-          "Unique_Calls": 3,
-          "Percentage": "0.200000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Number in Account DND List",
-          "Unique_Calls": 3,
-          "Percentage": "0.200000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Unallocated Number",
-          "Unique_Calls": 3,
-          "Percentage": "0.200000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Channel Issue",
           "Unique_Calls": 2,
-          "Percentage": "0.130000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Customer Goal Complete but offer not selected",
-          "Unique_Calls": 2,
-          "Percentage": "0.130000000000%",
-          "Avg_Attempts": 1.5
-        },
-        {
-          "Disposition": "Detail Mismatch",
-          "Unique_Calls": 1,
-          "Percentage": "0.070000000000%",
+          "Percentage": "0.030000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Call Drop",
           "Unique_Calls": 1,
-          "Percentage": "0.070000000000%",
+          "Percentage": "0.020000000000%",
           "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "QoS",
+          "Disposition": "Not Reachable",
           "Unique_Calls": 1,
-          "Percentage": "0.070000000000%",
+          "Percentage": "0.020000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "TOTAL",
-          "Unique_Calls": 1490,
-          "Percentage": "99.99%",
-          "Avg_Attempts": 1.05
+          "Unique_Calls": 5748,
+          "Percentage": "99.97%",
+          "Avg_Attempts": 1.09
         }
       ]
     },
-    "MoneyView": {
-      "timestamp": 1785577892.8330534,
+    "LTPRESS1": {
+      "timestamp": 1785582312.5167053,
       "columns": [
         "Disposition",
         "Unique_Calls",
@@ -1214,163 +1096,324 @@
       "rows": [
         {
           "Disposition": "Receiver is Busy",
-          "Unique_Calls": 13067,
-          "Percentage": "42.380000000000%",
-          "Avg_Attempts": 1.33
+          "Unique_Calls": 623,
+          "Percentage": "34.440000000000%",
+          "Avg_Attempts": 1.08
         },
         {
           "Disposition": "Ring Timeout",
-          "Unique_Calls": 7352,
-          "Percentage": "23.840000000000%",
-          "Avg_Attempts": 1.21
+          "Unique_Calls": 420,
+          "Percentage": "23.220000000000%",
+          "Avg_Attempts": 1.08
         },
         {
           "Disposition": "Did Not Speak",
-          "Unique_Calls": 4237,
-          "Percentage": "13.740000000000%",
-          "Avg_Attempts": 1.2
-        },
-        {
-          "Disposition": "No Answer",
-          "Unique_Calls": 2108,
-          "Percentage": "6.840000000000%",
-          "Avg_Attempts": 1.0
-        },
-        {
-          "Disposition": "Final Not Interested",
-          "Unique_Calls": 1104,
-          "Percentage": "3.580000000000%",
-          "Avg_Attempts": 1.02
+          "Unique_Calls": 272,
+          "Percentage": "15.040000000000%",
+          "Avg_Attempts": 1.07
         },
         {
           "Disposition": "Follow Up",
-          "Unique_Calls": 916,
-          "Percentage": "2.970000000000%",
+          "Unique_Calls": 132,
+          "Percentage": "7.300000000000%",
+          "Avg_Attempts": 1.3
+        },
+        {
+          "Disposition": "Final Not Interested",
+          "Unique_Calls": 116,
+          "Percentage": "6.410000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "No Answer",
+          "Unique_Calls": 58,
+          "Percentage": "3.210000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Interested",
+          "Unique_Calls": 36,
+          "Percentage": "1.990000000000%",
           "Avg_Attempts": 1.22
         },
         {
           "Disposition": "System Failure",
-          "Unique_Calls": 398,
-          "Percentage": "1.290000000000%",
+          "Unique_Calls": 26,
+          "Percentage": "1.440000000000%",
           "Avg_Attempts": 1.04
         },
         {
-          "Disposition": "Interested",
-          "Unique_Calls": 384,
-          "Percentage": "1.250000000000%",
-          "Avg_Attempts": 1.28
+          "Disposition": "Others",
+          "Unique_Calls": 25,
+          "Percentage": "1.380000000000%",
+          "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Undisposed",
-          "Unique_Calls": 279,
-          "Percentage": "0.900000000000%",
+          "Disposition": "Invalid Num",
+          "Unique_Calls": 18,
+          "Percentage": "1.000000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Network Issue",
-          "Unique_Calls": 234,
-          "Percentage": "0.760000000000%",
-          "Avg_Attempts": 1.02
+          "Unique_Calls": 15,
+          "Percentage": "0.830000000000%",
+          "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Others",
-          "Unique_Calls": 195,
-          "Percentage": "0.630000000000%",
-          "Avg_Attempts": 1.03
+          "Disposition": "Undisposed",
+          "Unique_Calls": 14,
+          "Percentage": "0.770000000000%",
+          "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Call Rejected",
-          "Unique_Calls": 93,
-          "Percentage": "0.300000000000%",
-          "Avg_Attempts": 1.12
-        },
-        {
-          "Disposition": "App Start",
-          "Unique_Calls": 82,
-          "Percentage": "0.270000000000%",
-          "Avg_Attempts": 1.43
+          "Disposition": "PUNCH",
+          "Unique_Calls": 13,
+          "Percentage": "0.720000000000%",
+          "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Do Not Call",
-          "Unique_Calls": 73,
-          "Percentage": "0.240000000000%",
-          "Avg_Attempts": 1.01
+          "Unique_Calls": 10,
+          "Percentage": "0.550000000000%",
+          "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Number in Account DND List",
-          "Unique_Calls": 54,
-          "Percentage": "0.180000000000%",
+          "Disposition": "Call Rejected",
+          "Unique_Calls": 9,
+          "Percentage": "0.500000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Final Not Eligible",
+          "Unique_Calls": 4,
+          "Percentage": "0.220000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Unallocated Number",
-          "Unique_Calls": 52,
-          "Percentage": "0.170000000000%",
-          "Avg_Attempts": 1.38
+          "Unique_Calls": 4,
+          "Percentage": "0.220000000000%",
+          "Avg_Attempts": 1.0
         },
         {
-          "Disposition": "Final Not Eligible",
-          "Unique_Calls": 45,
-          "Percentage": "0.150000000000%",
+          "Disposition": "Not Reachable",
+          "Unique_Calls": 3,
+          "Percentage": "0.170000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Number in Account DND List",
+          "Unique_Calls": 3,
+          "Percentage": "0.170000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Channel Issue",
+          "Unique_Calls": 2,
+          "Percentage": "0.110000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Customer Goal Complete but offer not selected",
+          "Unique_Calls": 2,
+          "Percentage": "0.110000000000%",
+          "Avg_Attempts": 1.5
+        },
+        {
+          "Disposition": "Detail Mismatch",
+          "Unique_Calls": 2,
+          "Percentage": "0.110000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Call Drop",
+          "Unique_Calls": 1,
+          "Percentage": "0.060000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "QoS",
+          "Unique_Calls": 1,
+          "Percentage": "0.060000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "TOTAL",
+          "Unique_Calls": 1809,
+          "Percentage": "100.03%",
+          "Avg_Attempts": 1.05
+        }
+      ]
+    },
+    "MoneyView": {
+      "timestamp": 1785582331.4657729,
+      "columns": [
+        "Disposition",
+        "Unique_Calls",
+        "Percentage",
+        "Avg_Attempts"
+      ],
+      "rows": [
+        {
+          "Disposition": "Receiver is Busy",
+          "Unique_Calls": 15308,
+          "Percentage": "42.870000000000%",
+          "Avg_Attempts": 1.37
+        },
+        {
+          "Disposition": "Ring Timeout",
+          "Unique_Calls": 8694,
+          "Percentage": "24.350000000000%",
+          "Avg_Attempts": 1.24
+        },
+        {
+          "Disposition": "Did Not Speak",
+          "Unique_Calls": 5226,
+          "Percentage": "14.640000000000%",
+          "Avg_Attempts": 1.19
+        },
+        {
+          "Disposition": "No Answer",
+          "Unique_Calls": 1639,
+          "Percentage": "4.590000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Final Not Interested",
+          "Unique_Calls": 1430,
+          "Percentage": "4.000000000000%",
           "Avg_Attempts": 1.02
         },
         {
-          "Disposition": "Declined",
-          "Unique_Calls": 44,
+          "Disposition": "Follow Up",
+          "Unique_Calls": 1058,
+          "Percentage": "2.960000000000%",
+          "Avg_Attempts": 1.27
+        },
+        {
+          "Disposition": "System Failure",
+          "Unique_Calls": 465,
+          "Percentage": "1.300000000000%",
+          "Avg_Attempts": 1.03
+        },
+        {
+          "Disposition": "Interested",
+          "Unique_Calls": 433,
+          "Percentage": "1.210000000000%",
+          "Avg_Attempts": 1.34
+        },
+        {
+          "Disposition": "Undisposed",
+          "Unique_Calls": 313,
+          "Percentage": "0.880000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Network Issue",
+          "Unique_Calls": 248,
+          "Percentage": "0.690000000000%",
+          "Avg_Attempts": 1.02
+        },
+        {
+          "Disposition": "Others",
+          "Unique_Calls": 242,
+          "Percentage": "0.680000000000%",
+          "Avg_Attempts": 1.02
+        },
+        {
+          "Disposition": "Call Rejected",
+          "Unique_Calls": 109,
+          "Percentage": "0.310000000000%",
+          "Avg_Attempts": 1.13
+        },
+        {
+          "Disposition": "App Start",
+          "Unique_Calls": 93,
+          "Percentage": "0.260000000000%",
+          "Avg_Attempts": 1.43
+        },
+        {
+          "Disposition": "Do Not Call",
+          "Unique_Calls": 89,
+          "Percentage": "0.250000000000%",
+          "Avg_Attempts": 1.01
+        },
+        {
+          "Disposition": "Number in Account DND List",
+          "Unique_Calls": 67,
+          "Percentage": "0.190000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Unallocated Number",
+          "Unique_Calls": 61,
+          "Percentage": "0.170000000000%",
+          "Avg_Attempts": 1.39
+        },
+        {
+          "Disposition": "Final Not Eligible",
+          "Unique_Calls": 51,
           "Percentage": "0.140000000000%",
           "Avg_Attempts": 1.02
         },
         {
+          "Disposition": "Declined",
+          "Unique_Calls": 47,
+          "Percentage": "0.130000000000%",
+          "Avg_Attempts": 1.02
+        },
+        {
           "Disposition": "Need Better Offer",
-          "Unique_Calls": 33,
+          "Unique_Calls": 39,
           "Percentage": "0.110000000000%",
           "Avg_Attempts": 1.03
         },
         {
           "Disposition": "Not Reachable",
-          "Unique_Calls": 32,
+          "Unique_Calls": 37,
           "Percentage": "0.100000000000%",
-          "Avg_Attempts": 1.06
+          "Avg_Attempts": 1.05
         },
         {
           "Disposition": "Customer Goal Complete",
-          "Unique_Calls": 18,
-          "Percentage": "0.060000000000%",
+          "Unique_Calls": 19,
+          "Percentage": "0.050000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Schedule but NC",
-          "Unique_Calls": 12,
+          "Unique_Calls": 15,
           "Percentage": "0.040000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Rejected",
           "Unique_Calls": 5,
-          "Percentage": "0.020000000000%",
+          "Percentage": "0.010000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Channel Issue",
           "Unique_Calls": 5,
-          "Percentage": "0.020000000000%",
+          "Percentage": "0.010000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Final Not Eligible Cash Salary",
-          "Unique_Calls": 3,
+          "Unique_Calls": 5,
           "Percentage": "0.010000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Sos",
-          "Unique_Calls": 3,
+          "Unique_Calls": 4,
           "Percentage": "0.010000000000%",
           "Avg_Attempts": 1.0
         },
         {
           "Disposition": "Invalid Dialing",
-          "Unique_Calls": 2,
+          "Unique_Calls": 3,
           "Percentage": "0.010000000000%",
           "Avg_Attempts": 1.0
         },
@@ -1394,9 +1437,9 @@
         },
         {
           "Disposition": "TOTAL",
-          "Unique_Calls": 30833,
-          "Percentage": "100.01%",
-          "Avg_Attempts": 1.08
+          "Unique_Calls": 35708,
+          "Percentage": "99.97%",
+          "Avg_Attempts": 1.09
         }
       ]
     },
@@ -1981,6 +2024,95 @@
           "Unique_Calls": 1292,
           "Percentage": "99.97%",
           "Avg_Attempts": 1.17
+        }
+      ]
+    },
+    "PERSONAL LOAN GPT": {
+      "timestamp": 1785483497.7601066,
+      "columns": [
+        "Disposition",
+        "Unique_Calls",
+        "Percentage",
+        "Avg_Attempts"
+      ],
+      "rows": [
+        {
+          "Disposition": "No Answer",
+          "Unique_Calls": 243,
+          "Percentage": "36.540000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Receiver is Busy",
+          "Unique_Calls": 175,
+          "Percentage": "26.320000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Ring Timeout",
+          "Unique_Calls": 151,
+          "Percentage": "22.710000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Did Not Speak",
+          "Unique_Calls": 63,
+          "Percentage": "9.470000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Not Interested",
+          "Unique_Calls": 15,
+          "Percentage": "2.260000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Network Issue",
+          "Unique_Calls": 7,
+          "Percentage": "1.050000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Channel Issue",
+          "Unique_Calls": 4,
+          "Percentage": "0.600000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "System Failure",
+          "Unique_Calls": 3,
+          "Percentage": "0.450000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Undisposed",
+          "Unique_Calls": 1,
+          "Percentage": "0.150000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "NE - PL",
+          "Unique_Calls": 1,
+          "Percentage": "0.150000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Call Drop",
+          "Unique_Calls": 1,
+          "Percentage": "0.150000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "Call Rejected",
+          "Unique_Calls": 1,
+          "Percentage": "0.150000000000%",
+          "Avg_Attempts": 1.0
+        },
+        {
+          "Disposition": "TOTAL",
+          "Unique_Calls": 665,
+          "Percentage": "100.00%",
+          "Avg_Attempts": 1.0
         }
       ]
     },
@@ -2676,7 +2808,7 @@
   },
   "calling": {
     "CREDITTPlus": {
-      "timestamp": 1785577204.3933918,
+      "timestamp": 1785581561.8501368,
       "columns": [
         "date",
         "Campaign_Name",
@@ -4176,24 +4308,24 @@
           "date": "2026-08-01",
           "Campaign_Name": "CREDITTPlus",
           "Agent_Count": 5,
-          "Attempt": 3105,
-          "UNQ_Attempt": 2814,
-          "Connected": 712,
-          "UNQ_Connected": 657,
-          "True_Connected": 282,
-          "AVG_TIME": 26555,
-          "INT": 60,
-          "follow_up": 89,
+          "Attempt": 4080,
+          "UNQ_Attempt": 3598,
+          "Connected": 932,
+          "UNQ_Connected": 851,
+          "True_Connected": 366,
+          "AVG_TIME": 34543,
+          "INT": 74,
+          "follow_up": 118,
           "App_Start": 7,
           "App_Complete": 0,
-          "FNI": 55,
-          "DNS": 430,
-          "UNQ_DNS": 413
+          "FNI": 72,
+          "DNS": 566,
+          "UNQ_DNS": 534
         }
       ]
     },
     "HDFC PA": {
-      "timestamp": 1785577232.953249,
+      "timestamp": 1785581569.9226193,
       "columns": [
         "date",
         "Campaign_Name",
@@ -4703,24 +4835,24 @@
           "date": "2026-08-01",
           "Campaign_Name": "HDFC PA",
           "Agent_Count": 4,
-          "Attempt": 2125,
-          "UNQ_Attempt": 2099,
-          "Connected": 1038,
-          "UNQ_Connected": 1026,
-          "True_Connected": 225,
-          "AVG_TIME": 18515,
-          "INT": 20,
-          "follow_up": 25,
-          "App_Start": 1,
+          "Attempt": 2767,
+          "UNQ_Attempt": 2561,
+          "Connected": 1320,
+          "UNQ_Connected": 1301,
+          "True_Connected": 295,
+          "AVG_TIME": 24938,
+          "INT": 27,
+          "follow_up": 34,
+          "App_Start": 4,
           "App_Complete": 0,
-          "FNI": 148,
-          "DNS": 813,
-          "UNQ_DNS": 813
+          "FNI": 196,
+          "DNS": 1025,
+          "UNQ_DNS": 1025
         }
       ]
     },
     "HL Diamond": {
-      "timestamp": 1785577325.7430282,
+      "timestamp": 1785581684.6102195,
       "columns": [
         "date",
         "Campaign_Name",
@@ -5661,25 +5793,25 @@
         {
           "date": "2026-08-01",
           "Campaign_Name": "HL Diamond",
-          "Agent_Count": 2,
-          "Attempt": 944,
-          "UNQ_Attempt": 938,
-          "Connected": 247,
-          "UNQ_Connected": 247,
-          "True_Connected": 92,
-          "AVG_TIME": 6816,
+          "Agent_Count": 3,
+          "Attempt": 1621,
+          "UNQ_Attempt": 951,
+          "Connected": 403,
+          "UNQ_Connected": 403,
+          "True_Connected": 163,
+          "AVG_TIME": 10062,
           "INT": 0,
           "follow_up": 0,
           "App_Start": 0,
           "App_Complete": 0,
           "FNI": 0,
-          "DNS": 156,
-          "UNQ_DNS": 156
+          "DNS": 242,
+          "UNQ_DNS": 242
         }
       ]
     },
     "HL GOLD": {
-      "timestamp": 1785577456.509328,
+      "timestamp": 1785581820.0863051,
       "columns": [
         "date",
         "Campaign_Name",
@@ -6639,24 +6771,24 @@
           "date": "2026-08-01",
           "Campaign_Name": "HL GOLD",
           "Agent_Count": 4,
-          "Attempt": 1598,
-          "UNQ_Attempt": 1596,
-          "Connected": 449,
-          "UNQ_Connected": 448,
-          "True_Connected": 185,
-          "AVG_TIME": 10575,
+          "Attempt": 2100,
+          "UNQ_Attempt": 1638,
+          "Connected": 561,
+          "UNQ_Connected": 558,
+          "True_Connected": 235,
+          "AVG_TIME": 12565,
           "INT": 3,
           "follow_up": 0,
           "App_Start": 0,
           "App_Complete": 0,
           "FNI": 0,
-          "DNS": 264,
-          "UNQ_DNS": 264
+          "DNS": 326,
+          "UNQ_DNS": 326
         }
       ]
     },
     "HL PREMIUM": {
-      "timestamp": 1785577631.1012614,
+      "timestamp": 1785582009.2206352,
       "columns": [
         "date",
         "Campaign_Name",
@@ -7454,24 +7586,24 @@
           "date": "2026-08-01",
           "Campaign_Name": "HL PREMIUM",
           "Agent_Count": 4,
-          "Attempt": 1954,
-          "UNQ_Attempt": 889,
-          "Connected": 409,
-          "UNQ_Connected": 384,
-          "True_Connected": 247,
-          "AVG_TIME": 13909,
+          "Attempt": 3270,
+          "UNQ_Attempt": 1090,
+          "Connected": 478,
+          "UNQ_Connected": 451,
+          "True_Connected": 294,
+          "AVG_TIME": 15460,
           "INT": 2,
           "follow_up": 0,
           "App_Start": 0,
           "App_Complete": 0,
           "FNI": 0,
-          "DNS": 163,
-          "UNQ_DNS": 163
+          "DNS": 186,
+          "UNQ_DNS": 186
         }
       ]
     },
     "HL Silver": {
-      "timestamp": 1785577640.1767492,
+      "timestamp": 1785582123.2922134,
       "columns": [
         "date",
         "Campaign_Name",
@@ -8341,24 +8473,24 @@
           "date": "2026-08-01",
           "Campaign_Name": "HL Silver",
           "Agent_Count": 3,
-          "Attempt": 1481,
-          "UNQ_Attempt": 1480,
-          "Connected": 417,
-          "UNQ_Connected": 417,
-          "True_Connected": 267,
-          "AVG_TIME": 11403,
+          "Attempt": 1905,
+          "UNQ_Attempt": 1904,
+          "Connected": 533,
+          "UNQ_Connected": 533,
+          "True_Connected": 357,
+          "AVG_TIME": 14665,
           "INT": 0,
           "follow_up": 0,
           "App_Start": 0,
           "App_Complete": 0,
           "FNI": 0,
-          "DNS": 154,
-          "UNQ_DNS": 154
+          "DNS": 180,
+          "UNQ_DNS": 180
         }
       ]
     },
     "Kredit Bee Confirmed": {
-      "timestamp": 1785577873.6625822,
+      "timestamp": 1785582294.2990022,
       "columns": [
         "date",
         "Campaign_Name",
@@ -9876,24 +10008,24 @@
           "date": "2026-08-01",
           "Campaign_Name": "Kredit Bee Confirmed",
           "Agent_Count": 12,
-          "Attempt": 6305,
-          "UNQ_Attempt": 3022,
-          "Connected": 1363,
-          "UNQ_Connected": 1049,
-          "True_Connected": 714,
-          "AVG_TIME": 82474,
-          "INT": 180,
-          "follow_up": 359,
-          "App_Start": 67,
+          "Attempt": 7821,
+          "UNQ_Attempt": 3197,
+          "Connected": 1693,
+          "UNQ_Connected": 1225,
+          "True_Connected": 833,
+          "AVG_TIME": 100036,
+          "INT": 200,
+          "follow_up": 396,
+          "App_Start": 77,
           "App_Complete": 0,
-          "FNI": 170,
-          "DNS": 649,
-          "UNQ_DNS": 459
+          "FNI": 209,
+          "DNS": 860,
+          "UNQ_DNS": 572
         }
       ]
     },
     "Kredit Bee Eligible v3": {
-      "timestamp": 1785577879.282187,
+      "timestamp": 1785582309.4297204,
       "columns": [
         "date",
         "Campaign_Name",
@@ -11393,24 +11525,24 @@
           "date": "2026-08-01",
           "Campaign_Name": "Kredit Bee Eligible v3",
           "Agent_Count": 26,
-          "Attempt": 5217,
-          "UNQ_Attempt": 4505,
-          "Connected": 2157,
-          "UNQ_Connected": 1825,
-          "True_Connected": 1716,
-          "AVG_TIME": 275538,
-          "INT": 395,
-          "follow_up": 825,
-          "App_Start": 234,
+          "Attempt": 6270,
+          "UNQ_Attempt": 5352,
+          "Connected": 2571,
+          "UNQ_Connected": 2147,
+          "True_Connected": 2048,
+          "AVG_TIME": 341080,
+          "INT": 469,
+          "follow_up": 986,
+          "App_Start": 281,
           "App_Complete": 0,
-          "FNI": 338,
-          "DNS": 441,
-          "UNQ_DNS": 441
+          "FNI": 411,
+          "DNS": 523,
+          "UNQ_DNS": 523
         }
       ]
     },
     "LTPRESS1": {
-      "timestamp": 1785577890.9929714,
+      "timestamp": 1785582324.8149993,
       "columns": [
         "date",
         "Campaign_Name",
@@ -12892,19 +13024,19 @@
           "date": "2026-08-01",
           "Campaign_Name": "LTPRESS1",
           "Agent_Count": 5,
-          "Attempt": 1591,
-          "UNQ_Attempt": 1352,
-          "Connected": 522,
-          "UNQ_Connected": 470,
-          "True_Connected": 285,
-          "AVG_TIME": 25203,
-          "INT": 36,
-          "follow_up": 144,
+          "Attempt": 1960,
+          "UNQ_Attempt": 1647,
+          "Connected": 631,
+          "UNQ_Connected": 570,
+          "True_Connected": 339,
+          "AVG_TIME": 29170,
+          "INT": 44,
+          "follow_up": 171,
           "App_Start": 0,
           "App_Complete": 0,
-          "FNI": 93,
-          "DNS": 237,
-          "UNQ_DNS": 219
+          "FNI": 116,
+          "DNS": 292,
+          "UNQ_DNS": 272
         }
       ]
     },
@@ -21246,6 +21378,1289 @@
           "FNI": 33,
           "DNS": 127,
           "UNQ_DNS": 119
+        }
+      ]
+    },
+    "PERSONAL LOAN GPT": {
+      "timestamp": 1785483500.6389823,
+      "columns": [
+        "date",
+        "Campaign_Name",
+        "Agent_Count",
+        "Attempt",
+        "UNQ_Attempt",
+        "Connected",
+        "UNQ_Connected",
+        "True_Connected",
+        "AVG_TIME",
+        "INT",
+        "follow_up",
+        "App_Start",
+        "App_Complete",
+        "FNI",
+        "DNS",
+        "UNQ_DNS"
+      ],
+      "rows": [
+        {
+          "date": "2026-05-04",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 1057,
+          "UNQ_Attempt": 1050,
+          "Connected": 132,
+          "UNQ_Connected": 131,
+          "True_Connected": 73,
+          "AVG_TIME": 3734,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 67,
+          "UNQ_DNS": 66
+        },
+        {
+          "date": "2026-05-05",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 4188,
+          "UNQ_Attempt": 4183,
+          "Connected": 687,
+          "UNQ_Connected": 683,
+          "True_Connected": 507,
+          "AVG_TIME": 18316,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 180,
+          "UNQ_DNS": 180
+        },
+        {
+          "date": "2026-05-06",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 4465,
+          "UNQ_Attempt": 4460,
+          "Connected": 966,
+          "UNQ_Connected": 963,
+          "True_Connected": 768,
+          "AVG_TIME": 27511,
+          "INT": 4,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 198,
+          "UNQ_DNS": 198
+        },
+        {
+          "date": "2026-05-07",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 3035,
+          "UNQ_Attempt": 2905,
+          "Connected": 597,
+          "UNQ_Connected": 588,
+          "True_Connected": 435,
+          "AVG_TIME": 15698,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 229,
+          "UNQ_DNS": 226
+        },
+        {
+          "date": "2026-05-08",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 5887,
+          "UNQ_Attempt": 2416,
+          "Connected": 1007,
+          "UNQ_Connected": 827,
+          "True_Connected": 659,
+          "AVG_TIME": 26139,
+          "INT": 6,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 355,
+          "UNQ_DNS": 282
+        },
+        {
+          "date": "2026-05-09",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 3863,
+          "UNQ_Attempt": 1670,
+          "Connected": 559,
+          "UNQ_Connected": 512,
+          "True_Connected": 354,
+          "AVG_TIME": 13444,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 210,
+          "UNQ_DNS": 180
+        },
+        {
+          "date": "2026-05-11",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 4796,
+          "UNQ_Attempt": 2773,
+          "Connected": 703,
+          "UNQ_Connected": 660,
+          "True_Connected": 563,
+          "AVG_TIME": 17739,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 143,
+          "UNQ_DNS": 128
+        },
+        {
+          "date": "2026-05-12",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 4997,
+          "UNQ_Attempt": 3332,
+          "Connected": 791,
+          "UNQ_Connected": 778,
+          "True_Connected": 549,
+          "AVG_TIME": 19475,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 243,
+          "UNQ_DNS": 238
+        },
+        {
+          "date": "2026-05-13",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 6452,
+          "UNQ_Attempt": 4579,
+          "Connected": 959,
+          "UNQ_Connected": 948,
+          "True_Connected": 719,
+          "AVG_TIME": 28715,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 243,
+          "UNQ_DNS": 239
+        },
+        {
+          "date": "2026-05-14",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 7024,
+          "UNQ_Attempt": 5723,
+          "Connected": 1360,
+          "UNQ_Connected": 1278,
+          "True_Connected": 1051,
+          "AVG_TIME": 32960,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 310,
+          "UNQ_DNS": 295
+        },
+        {
+          "date": "2026-05-15",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 5,
+          "Attempt": 4693,
+          "UNQ_Attempt": 4342,
+          "Connected": 1041,
+          "UNQ_Connected": 1033,
+          "True_Connected": 830,
+          "AVG_TIME": 33622,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 217,
+          "UNQ_DNS": 216
+        },
+        {
+          "date": "2026-05-16",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 5,
+          "Attempt": 4919,
+          "UNQ_Attempt": 4896,
+          "Connected": 1029,
+          "UNQ_Connected": 1025,
+          "True_Connected": 835,
+          "AVG_TIME": 31473,
+          "INT": 4,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 203,
+          "UNQ_DNS": 203
+        },
+        {
+          "date": "2026-05-18",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 4513,
+          "UNQ_Attempt": 3672,
+          "Connected": 763,
+          "UNQ_Connected": 755,
+          "True_Connected": 609,
+          "AVG_TIME": 25028,
+          "INT": 11,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 176,
+          "UNQ_DNS": 175
+        },
+        {
+          "date": "2026-05-19",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 3833,
+          "UNQ_Attempt": 3765,
+          "Connected": 726,
+          "UNQ_Connected": 720,
+          "True_Connected": 452,
+          "AVG_TIME": 24287,
+          "INT": 8,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 287,
+          "UNQ_DNS": 283
+        },
+        {
+          "date": "2026-05-20",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 1766,
+          "UNQ_Attempt": 1759,
+          "Connected": 437,
+          "UNQ_Connected": 436,
+          "True_Connected": 296,
+          "AVG_TIME": 13004,
+          "INT": 3,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 171,
+          "UNQ_DNS": 170
+        },
+        {
+          "date": "2026-05-21",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 4399,
+          "UNQ_Attempt": 3457,
+          "Connected": 749,
+          "UNQ_Connected": 687,
+          "True_Connected": 385,
+          "AVG_TIME": 21168,
+          "INT": 3,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 373,
+          "UNQ_DNS": 347
+        },
+        {
+          "date": "2026-05-22",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 3786,
+          "UNQ_Attempt": 3774,
+          "Connected": 835,
+          "UNQ_Connected": 834,
+          "True_Connected": 467,
+          "AVG_TIME": 21151,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 375,
+          "UNQ_DNS": 373
+        },
+        {
+          "date": "2026-05-23",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 3274,
+          "UNQ_Attempt": 2503,
+          "Connected": 759,
+          "UNQ_Connected": 707,
+          "True_Connected": 422,
+          "AVG_TIME": 19015,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 338,
+          "UNQ_DNS": 313
+        },
+        {
+          "date": "2026-05-24",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 2855,
+          "UNQ_Attempt": 2261,
+          "Connected": 599,
+          "UNQ_Connected": 578,
+          "True_Connected": 361,
+          "AVG_TIME": 13666,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 238,
+          "UNQ_DNS": 228
+        },
+        {
+          "date": "2026-05-25",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 3607,
+          "UNQ_Attempt": 3216,
+          "Connected": 757,
+          "UNQ_Connected": 750,
+          "True_Connected": 325,
+          "AVG_TIME": 22932,
+          "INT": 8,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 434,
+          "UNQ_DNS": 426
+        },
+        {
+          "date": "2026-05-26",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 6,
+          "Attempt": 3696,
+          "UNQ_Attempt": 3677,
+          "Connected": 961,
+          "UNQ_Connected": 953,
+          "True_Connected": 547,
+          "AVG_TIME": 28725,
+          "INT": 4,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 415,
+          "UNQ_DNS": 414
+        },
+        {
+          "date": "2026-05-27",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 5,
+          "Attempt": 2848,
+          "UNQ_Attempt": 2335,
+          "Connected": 585,
+          "UNQ_Connected": 555,
+          "True_Connected": 328,
+          "AVG_TIME": 20362,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 259,
+          "UNQ_DNS": 244
+        },
+        {
+          "date": "2026-05-28",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 7,
+          "Attempt": 5055,
+          "UNQ_Attempt": 3647,
+          "Connected": 1337,
+          "UNQ_Connected": 1204,
+          "True_Connected": 599,
+          "AVG_TIME": 29392,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 744,
+          "UNQ_DNS": 665
+        },
+        {
+          "date": "2026-05-29",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 6,
+          "Attempt": 2919,
+          "UNQ_Attempt": 2323,
+          "Connected": 625,
+          "UNQ_Connected": 584,
+          "True_Connected": 354,
+          "AVG_TIME": 19332,
+          "INT": 5,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 276,
+          "UNQ_DNS": 255
+        },
+        {
+          "date": "2026-05-30",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 5,
+          "Attempt": 3767,
+          "UNQ_Attempt": 3020,
+          "Connected": 792,
+          "UNQ_Connected": 742,
+          "True_Connected": 460,
+          "AVG_TIME": 21960,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 334,
+          "UNQ_DNS": 310
+        },
+        {
+          "date": "2026-06-01",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 2365,
+          "UNQ_Attempt": 1761,
+          "Connected": 394,
+          "UNQ_Connected": 376,
+          "True_Connected": 196,
+          "AVG_TIME": 11145,
+          "INT": 3,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 217,
+          "UNQ_DNS": 199
+        },
+        {
+          "date": "2026-06-02",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 5,
+          "Attempt": 1283,
+          "UNQ_Attempt": 989,
+          "Connected": 175,
+          "UNQ_Connected": 164,
+          "True_Connected": 53,
+          "AVG_TIME": 4010,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 122,
+          "UNQ_DNS": 113
+        },
+        {
+          "date": "2026-06-03",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 166,
+          "UNQ_Attempt": 160,
+          "Connected": 30,
+          "UNQ_Connected": 30,
+          "True_Connected": 17,
+          "AVG_TIME": 1094,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 13,
+          "UNQ_DNS": 13
+        },
+        {
+          "date": "2026-06-04",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 277,
+          "UNQ_Attempt": 270,
+          "Connected": 36,
+          "UNQ_Connected": 36,
+          "True_Connected": 13,
+          "AVG_TIME": 859,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 23,
+          "UNQ_DNS": 23
+        },
+        {
+          "date": "2026-06-05",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 2075,
+          "UNQ_Attempt": 1384,
+          "Connected": 353,
+          "UNQ_Connected": 321,
+          "True_Connected": 134,
+          "AVG_TIME": 10720,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 238,
+          "UNQ_DNS": 213
+        },
+        {
+          "date": "2026-06-06",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 2215,
+          "UNQ_Attempt": 1611,
+          "Connected": 250,
+          "UNQ_Connected": 230,
+          "True_Connected": 79,
+          "AVG_TIME": 6171,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 172,
+          "UNQ_DNS": 153
+        },
+        {
+          "date": "2026-06-11",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 740,
+          "UNQ_Attempt": 630,
+          "Connected": 131,
+          "UNQ_Connected": 127,
+          "True_Connected": 10,
+          "AVG_TIME": 2303,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 121,
+          "UNQ_DNS": 117
+        },
+        {
+          "date": "2026-06-12",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 2123,
+          "UNQ_Attempt": 1641,
+          "Connected": 464,
+          "UNQ_Connected": 428,
+          "True_Connected": 196,
+          "AVG_TIME": 9836,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 274,
+          "UNQ_DNS": 255
+        },
+        {
+          "date": "2026-06-13",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 607,
+          "UNQ_Attempt": 571,
+          "Connected": 122,
+          "UNQ_Connected": 122,
+          "True_Connected": 10,
+          "AVG_TIME": 1628,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 114,
+          "UNQ_DNS": 114
+        },
+        {
+          "date": "2026-06-15",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 2159,
+          "UNQ_Attempt": 1891,
+          "Connected": 488,
+          "UNQ_Connected": 466,
+          "True_Connected": 137,
+          "AVG_TIME": 7776,
+          "INT": 3,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 351,
+          "UNQ_DNS": 332
+        },
+        {
+          "date": "2026-06-16",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 4466,
+          "UNQ_Attempt": 2604,
+          "Connected": 869,
+          "UNQ_Connected": 772,
+          "True_Connected": 449,
+          "AVG_TIME": 16350,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 422,
+          "UNQ_DNS": 364
+        },
+        {
+          "date": "2026-06-17",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 4457,
+          "UNQ_Attempt": 1754,
+          "Connected": 935,
+          "UNQ_Connected": 706,
+          "True_Connected": 264,
+          "AVG_TIME": 20085,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 716,
+          "UNQ_DNS": 540
+        },
+        {
+          "date": "2026-06-18",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 5342,
+          "UNQ_Attempt": 5216,
+          "Connected": 952,
+          "UNQ_Connected": 944,
+          "True_Connected": 317,
+          "AVG_TIME": 20918,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 638,
+          "UNQ_DNS": 635
+        },
+        {
+          "date": "2026-06-19",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 3344,
+          "UNQ_Attempt": 3324,
+          "Connected": 574,
+          "UNQ_Connected": 574,
+          "True_Connected": 240,
+          "AVG_TIME": 10529,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 334,
+          "UNQ_DNS": 334
+        },
+        {
+          "date": "2026-06-20",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 2745,
+          "UNQ_Attempt": 2745,
+          "Connected": 655,
+          "UNQ_Connected": 655,
+          "True_Connected": 155,
+          "AVG_TIME": 13583,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 500,
+          "UNQ_DNS": 500
+        },
+        {
+          "date": "2026-06-22",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 5543,
+          "UNQ_Attempt": 5531,
+          "Connected": 853,
+          "UNQ_Connected": 851,
+          "True_Connected": 244,
+          "AVG_TIME": 12485,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 611,
+          "UNQ_DNS": 608
+        },
+        {
+          "date": "2026-06-23",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 5155,
+          "UNQ_Attempt": 5133,
+          "Connected": 681,
+          "UNQ_Connected": 677,
+          "True_Connected": 247,
+          "AVG_TIME": 9135,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 435,
+          "UNQ_DNS": 434
+        },
+        {
+          "date": "2026-06-24",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 908,
+          "UNQ_Attempt": 903,
+          "Connected": 101,
+          "UNQ_Connected": 101,
+          "True_Connected": 30,
+          "AVG_TIME": 1162,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 71,
+          "UNQ_DNS": 71
+        },
+        {
+          "date": "2026-06-25",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 93,
+          "UNQ_Attempt": 93,
+          "Connected": 16,
+          "UNQ_Connected": 16,
+          "True_Connected": 8,
+          "AVG_TIME": 248,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 8,
+          "UNQ_DNS": 8
+        },
+        {
+          "date": "2026-06-27",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 1041,
+          "UNQ_Attempt": 1035,
+          "Connected": 93,
+          "UNQ_Connected": 93,
+          "True_Connected": 25,
+          "AVG_TIME": 1080,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 68,
+          "UNQ_DNS": 68
+        },
+        {
+          "date": "2026-06-29",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 6188,
+          "UNQ_Attempt": 5966,
+          "Connected": 719,
+          "UNQ_Connected": 709,
+          "True_Connected": 202,
+          "AVG_TIME": 11278,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 517,
+          "UNQ_DNS": 513
+        },
+        {
+          "date": "2026-06-30",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 2665,
+          "UNQ_Attempt": 2624,
+          "Connected": 471,
+          "UNQ_Connected": 467,
+          "True_Connected": 132,
+          "AVG_TIME": 11891,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 341,
+          "UNQ_DNS": 339
+        },
+        {
+          "date": "2026-07-01",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 1686,
+          "UNQ_Attempt": 1352,
+          "Connected": 243,
+          "UNQ_Connected": 224,
+          "True_Connected": 52,
+          "AVG_TIME": 5940,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 191,
+          "UNQ_DNS": 176
+        },
+        {
+          "date": "2026-07-02",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 1147,
+          "UNQ_Attempt": 1039,
+          "Connected": 186,
+          "UNQ_Connected": 183,
+          "True_Connected": 42,
+          "AVG_TIME": 5894,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 145,
+          "UNQ_DNS": 142
+        },
+        {
+          "date": "2026-07-03",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 39,
+          "UNQ_Attempt": 37,
+          "Connected": 3,
+          "UNQ_Connected": 3,
+          "True_Connected": 1,
+          "AVG_TIME": 64,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 2,
+          "UNQ_DNS": 2
+        },
+        {
+          "date": "2026-07-04",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 106,
+          "UNQ_Attempt": 106,
+          "Connected": 16,
+          "UNQ_Connected": 16,
+          "True_Connected": 4,
+          "AVG_TIME": 578,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 12,
+          "UNQ_DNS": 12
+        },
+        {
+          "date": "2026-07-06",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 3066,
+          "UNQ_Attempt": 3024,
+          "Connected": 437,
+          "UNQ_Connected": 437,
+          "True_Connected": 64,
+          "AVG_TIME": 9238,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 374,
+          "UNQ_DNS": 374
+        },
+        {
+          "date": "2026-07-07",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 3182,
+          "UNQ_Attempt": 3135,
+          "Connected": 802,
+          "UNQ_Connected": 801,
+          "True_Connected": 208,
+          "AVG_TIME": 12936,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 597,
+          "UNQ_DNS": 597
+        },
+        {
+          "date": "2026-07-10",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 254,
+          "UNQ_Attempt": 252,
+          "Connected": 24,
+          "UNQ_Connected": 24,
+          "True_Connected": 5,
+          "AVG_TIME": 446,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 19,
+          "UNQ_DNS": 19
+        },
+        {
+          "date": "2026-07-11",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 624,
+          "UNQ_Attempt": 623,
+          "Connected": 86,
+          "UNQ_Connected": 86,
+          "True_Connected": 42,
+          "AVG_TIME": 2008,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 45,
+          "UNQ_DNS": 45
+        },
+        {
+          "date": "2026-07-13",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 2092,
+          "UNQ_Attempt": 1754,
+          "Connected": 316,
+          "UNQ_Connected": 288,
+          "True_Connected": 55,
+          "AVG_TIME": 6207,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 261,
+          "UNQ_DNS": 234
+        },
+        {
+          "date": "2026-07-14",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 5663,
+          "UNQ_Attempt": 4015,
+          "Connected": 1180,
+          "UNQ_Connected": 1004,
+          "True_Connected": 367,
+          "AVG_TIME": 24422,
+          "INT": 6,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 813,
+          "UNQ_DNS": 671
+        },
+        {
+          "date": "2026-07-15",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 4335,
+          "UNQ_Attempt": 4195,
+          "Connected": 981,
+          "UNQ_Connected": 979,
+          "True_Connected": 380,
+          "AVG_TIME": 21872,
+          "INT": 4,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 601,
+          "UNQ_DNS": 599
+        },
+        {
+          "date": "2026-07-16",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 6818,
+          "UNQ_Attempt": 6753,
+          "Connected": 1243,
+          "UNQ_Connected": 1241,
+          "True_Connected": 378,
+          "AVG_TIME": 21969,
+          "INT": 5,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 866,
+          "UNQ_DNS": 863
+        },
+        {
+          "date": "2026-07-17",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 5747,
+          "UNQ_Attempt": 5710,
+          "Connected": 1273,
+          "UNQ_Connected": 1272,
+          "True_Connected": 463,
+          "AVG_TIME": 21120,
+          "INT": 4,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 810,
+          "UNQ_DNS": 810
+        },
+        {
+          "date": "2026-07-18",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 4093,
+          "UNQ_Attempt": 4073,
+          "Connected": 829,
+          "UNQ_Connected": 829,
+          "True_Connected": 479,
+          "AVG_TIME": 17882,
+          "INT": 3,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 352,
+          "UNQ_DNS": 352
+        },
+        {
+          "date": "2026-07-20",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 6499,
+          "UNQ_Attempt": 5024,
+          "Connected": 1756,
+          "UNQ_Connected": 1610,
+          "True_Connected": 631,
+          "AVG_TIME": 38080,
+          "INT": 5,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 1128,
+          "UNQ_DNS": 1023
+        },
+        {
+          "date": "2026-07-21",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 5,
+          "Attempt": 7083,
+          "UNQ_Attempt": 3903,
+          "Connected": 1716,
+          "UNQ_Connected": 1395,
+          "True_Connected": 683,
+          "AVG_TIME": 35347,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 1033,
+          "UNQ_DNS": 831
+        },
+        {
+          "date": "2026-07-22",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 4475,
+          "UNQ_Attempt": 2568,
+          "Connected": 1114,
+          "UNQ_Connected": 950,
+          "True_Connected": 416,
+          "AVG_TIME": 16584,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 698,
+          "UNQ_DNS": 585
+        },
+        {
+          "date": "2026-07-23",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 3,
+          "Attempt": 3451,
+          "UNQ_Attempt": 2150,
+          "Connected": 654,
+          "UNQ_Connected": 577,
+          "True_Connected": 98,
+          "AVG_TIME": 10838,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 567,
+          "UNQ_DNS": 483
+        },
+        {
+          "date": "2026-07-24",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 2769,
+          "UNQ_Attempt": 2725,
+          "Connected": 631,
+          "UNQ_Connected": 625,
+          "True_Connected": 149,
+          "AVG_TIME": 13490,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 484,
+          "UNQ_DNS": 480
+        },
+        {
+          "date": "2026-07-27",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 2210,
+          "UNQ_Attempt": 2198,
+          "Connected": 400,
+          "UNQ_Connected": 398,
+          "True_Connected": 79,
+          "AVG_TIME": 8446,
+          "INT": 1,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 321,
+          "UNQ_DNS": 319
+        },
+        {
+          "date": "2026-07-29",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 2,
+          "Attempt": 2644,
+          "UNQ_Attempt": 2411,
+          "Connected": 528,
+          "UNQ_Connected": 504,
+          "True_Connected": 137,
+          "AVG_TIME": 14050,
+          "INT": 4,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 391,
+          "UNQ_DNS": 373
+        },
+        {
+          "date": "2026-07-30",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 4,
+          "Attempt": 4704,
+          "UNQ_Attempt": 2019,
+          "Connected": 659,
+          "UNQ_Connected": 492,
+          "True_Connected": 174,
+          "AVG_TIME": 16748,
+          "INT": 2,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 488,
+          "UNQ_DNS": 352
+        },
+        {
+          "date": "2026-07-31",
+          "Campaign_Name": "PERSONAL LOAN GPT",
+          "Agent_Count": 1,
+          "Attempt": 665,
+          "UNQ_Attempt": 664,
+          "Connected": 83,
+          "UNQ_Connected": 83,
+          "True_Connected": 20,
+          "AVG_TIME": 3425,
+          "INT": 0,
+          "follow_up": 0,
+          "App_Start": 0,
+          "App_Complete": 0,
+          "FNI": 0,
+          "DNS": 63,
+          "UNQ_DNS": 63
         }
       ]
     },
