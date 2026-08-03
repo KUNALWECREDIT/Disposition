@@ -103,6 +103,29 @@ queries.
   through every campaign and force-refreshes + caches both queries in one
   click — the easiest way to get a complete, up-to-date snapshot ready for
   offline use before, say, going somewhere without VPN access.
+- **`refresh_all.py`** does the same thing from the command line, without
+  needing the Flask server running or a browser open at all:
+  ```bash
+  python refresh_all.py --username your_sql_login
+  ```
+  You'll be prompted for the password securely (nothing shown on screen,
+  nothing saved to shell history). To also regenerate the static GitHub
+  Pages snapshot (`docs/data.json`) in the same run, add `--export`:
+  ```bash
+  python refresh_all.py --username your_sql_login --export
+  ```
+  For unattended/scheduled runs (Windows Task Scheduler, cron, etc.), set
+  credentials as environment variables instead of typing a password into a
+  saved script:
+  ```cmd
+  set DASHBOARD_DB_USER=your_sql_login
+  set DASHBOARD_DB_PASSWORD=your_password
+  python refresh_all.py --export
+  ```
+  This is the same script you'd point a scheduled task at if you want the
+  cache (and optionally the GitHub Pages snapshot) to refresh automatically
+  every morning, for example — see `docs/README.md`'s "Refresh cadence"
+  section for wiring that up.
 - **"Refresh this campaign"** only force-refreshes the currently viewed
   campaign.
 - Outside of an explicit refresh/sync, live pages reuse an in-memory result
